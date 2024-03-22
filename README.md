@@ -1,4 +1,4 @@
-# Welcome to my repository. 
+# Welcome to my personal GitHub portfolio!
 _Here is where I shall display projects, ideas and figments as I continue my development._
 
 So far I have:
